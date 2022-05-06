@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImranManiyar
 - 👀 I’m interested in Research and Development, Coding, Design and Architecture.
 - 🌱 I’m always learing something new
-- 💞️ I’m an expert in Azure and Microervices
+- 💞️ I’m an expert in Azure and Microservices
 - 📫 Reach me at https://www.linkedin.com/in/imran-maniyar-kiwi/
 
 <!---
